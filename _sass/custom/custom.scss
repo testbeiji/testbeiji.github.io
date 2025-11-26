@@ -1,0 +1,15 @@
+/* 禁用网页中文本的选择功能 */
+body {
+  -webkit-user-select: none; /* 针对 Safari/Chrome */
+  -moz-user-select: none; /* 针对 Firefox */
+  -ms-user-select: none; /* 针对 IE/Edge */
+  user-select: none; /* 标准语法 */
+}
+
+/* 允许链接和输入框文本选择，以保持基本交互 */
+a, input, textarea {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}

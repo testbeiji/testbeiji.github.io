@@ -1,8 +1,26 @@
 ---
-# the default layout is 'page'
+# 请保留顶部和底部的三横杠 (---)
+# 这是页面的配置信息（Front Matter）
+layout: page
 icon: fas fa-info-circle
 order: 4
+title: 关于我们
+permalink: /about/
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 🐻‍❄️ 大北极熊BPB：简洁、专业的知识分享平台
+
+我们专注于提供高质量、无干扰的产品信息和专业知识分享。
+
+### 我们的愿景
+在信息过载的时代，我们致力于为您筛选和提炼最有价值的内容，让您的学习和决策更加高效。
+
+### 核心焦点
+* **产品理念：** 强调用户体验和极简设计。
+* **内容质量：** 所有文章均经过精心策划和编辑。
+* **开放交流：** 我们重视您的反馈，欢迎通过邮件联系我们。
+
+### 联系我们
+
+如果您有任何问题或合作意向，请随时通过邮箱联系：
+📧 **{{ Maiviettrinh42@gmail.com }}**

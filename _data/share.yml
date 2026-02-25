@@ -2,12 +2,7 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-# ** 仅保留 Bilibili 分享 **
-  - type: Bilibili
-    icon: "fas fa-paper-plane" # 使用一个通用图标，如飞机（B站没有专属图标）
-    # Bilibili 的分享链接用于分享到动态
-    # URL 是文章链接，TITLE 是文章标题
-    link: "https://t.bilibili.com/share/weibo?url=URL&title=TITLE"
+
     
  # - type: Twitter
  #   icon: "fa-brands fa-square-x-twitter"
